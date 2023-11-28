@@ -1,5 +1,5 @@
 # Coding_samurai_internship_task
 Welcome to the Business Analytics Internship Tasks Repository! 
-This repository contains all the tasks and projects completed during my business analytics internship at Coding Samurai
-I will upload the dataset as well as power bi file with it.
-Thank You
+This project is an Employee Attrition Dashboard developed during my business analytics internship at Coding Samurai. The dashboard aims to provide insights into employee attrition rates within the company.
+I will upload the dataset as well.
+Thank You your visiting
